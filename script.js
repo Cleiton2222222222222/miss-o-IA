@@ -1,0 +1,5 @@
+const caixaPrincipal = documento.querySelector(".caixa-principal")
+const caixaPerguntas = documento.querySelector(".caixa-perguntas")
+const caixaAlternativas = documento.querySelector(".caixa-alternativas")
+const caixaResultados = documento.querySelector(".caixa-resultados")
+const textoResultado = documento.querySelector(".texto-resultados")
